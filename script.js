@@ -14,7 +14,7 @@ let shuffledIndices = []; // Array to hold shuffled track indices
 // Track details
 const tracks = [
     { title: "FADE AWAY (FT. SOLYM)", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "SOMETIMES", src: "Songss/SOMETIMES.mp3" },
+    { title: "SOMETIMES", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/SOMETIMES.mp3" },
     { title: "IN THE NIGHT", src: "Songss/IN THE NIGHT.mp3" },
     { title: "FEELING (EID) (FT. POP BULLET)", src: "Songss/FEELING (EID) (FT. POP BULLET).mp3" },
     { title: "THINGS YOU DO", src: "Songss/THINGS YOU DO.mp3" },
