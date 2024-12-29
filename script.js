@@ -14,13 +14,13 @@ let shuffledIndices = []; // Array to hold shuffled track indices
 // Track details
 const tracks = [
     { title: "FADE AWAY (FT. SOLYM)", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "SOMETIMES", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "IN THE NIGHT", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "FEELING (EID) (FT. POP BULLET)", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "THINGS YOU DO", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "GAME", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "CAN'T CHANGE", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
-    { title: "IRREVERSEBLE", src: "file:///D:/Zen%C3%A9k/Lost%20Road.wav" },
+    { title: "SOMETIMES", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/SOMETIMES.mp3" },
+    { title: "IN THE NIGHT", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/IN%20THE%20NIGHT.mp3" },
+    { title: "FEELING (EID) (FT. POP BULLET)", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/FEELING%20(EID)%20(FT.%20POP%20BULLET).mp3" },
+    { title: "THINGS YOU DO", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/THINGS%20YOU%20DO.mp3" },
+    { title: "GAME", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/GAME.mp3" },
+    { title: "CAN'T CHANGE", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/CAN'T%20CHANGE.mp3" },
+    { title: "IRREVERSEBLE", src: "file:///D:/PBEATS%20SITE/Fucked%20luv%20site/Songss/IRREVERSEBLE.mp3" },
 
 ];
 
