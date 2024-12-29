@@ -13,7 +13,7 @@ let shuffledIndices = []; // Array to hold shuffled track indices
 
 // Track details
 const tracks = [
-    { title: "FADE AWAY (FT. SOLYM)", src: "Audio Files/Who We Are2.mp3" },
+    { title: "FADE AWAY (FT. SOLYM)", src: "Songss/FADE AWAY (FT. SOLYM).mp3" },
     { title: "SOMETIMES", src: "Songss/SOMETIMES.mp3" },
     { title: "IN THE NIGHT", src: "Songss/IN THE NIGHT.mp3" },
     { title: "FEELING (EID) (FT. POP BULLET)", src: "Songss/FEELING (EID) (FT. POP BULLET).mp3" },
