@@ -14,13 +14,13 @@ let shuffledIndices = []; // Array to hold shuffled track indices
 // Track details
 const tracks = [
     { title: "FADE AWAY (FT. SOLYM)", src: "Audio Files/Who We Are2.mp3" },
-    { title: "SOMETIMES", src: "Audio Files/Maybe.mp3" },
-    { title: "IN THE NIGHT", src: "Audio Files/Fell Apart.mp3" },
-    { title: "FEELING (EID) (FT. POP BULLET)", src: "Audio Files/What Went Wrong (Interlude).mp3" },
-    { title: "THINGS YOU DO", src: "Audio Files/Lose Control.mp3" },
-    { title: "GAME", src: "Audio Files/Legend Of Heartbreak.mp3" },
-    { title: "CAN'T CHANGE", src: "Audio Files/New Ways pt 2..mp3" },
-    { title: "IRREVERSEBLE", src: "Audio Files/Strangers, Haters.mp3" },
+    { title: "SOMETIMES", src: "Songss/SOMETIMES.mp3" },
+    { title: "IN THE NIGHT", src: "Songss/IN THE NIGHT.mp3" },
+    { title: "FEELING (EID) (FT. POP BULLET)", src: "Songss/FEELING (EID) (FT. POP BULLET).mp3" },
+    { title: "THINGS YOU DO", src: "Songss/THINGS YOU DO.mp3" },
+    { title: "GAME", src: "Songss/GAME.mp3" },
+    { title: "CAN'T CHANGE", src: "Songss/CAN'T CHANGE.mp3" },
+    { title: "IRREVERSEBLE", src: "Songss/IRREVERSEBLE.mp3" },
 ];
 
 let currentTrackIndex = 0;
